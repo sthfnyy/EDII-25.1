@@ -3,6 +3,8 @@
 #include <string.h>
 #include "interface_avp.h"
 
+//lista 
+
 // Aloca Estado (não aloca infoEstado separadamente)
 Estado* alocar_estado() 
 {
