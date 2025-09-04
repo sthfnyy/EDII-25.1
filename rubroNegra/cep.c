@@ -3,6 +3,8 @@
 #include <string.h>
 #include "interface_avp.h"
 
+//árvore
+
 // Preenche a struct infoCEP com o valor do CEP
 void preencherCEP(infoCEP *dados, int numCEP) 
 {
