@@ -3,6 +3,10 @@
 #include <string.h>
 #include "interface_avp.h"
 
+
+//árvore
+
+
 // Preenche a struct infoCidade com nome e população
 void preencherCidade(infoCidade *cidade, char *nome_cidade, int populacaoC) {
     strncpy(cidade->nome_cidade, nome_cidade, TAM_STRING - 1);
